@@ -1,22 +1,11 @@
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+
+
+# Unofficial ctrlX app for backup and restore
 
 
 
 
-# CPU-Monitoring-webAPP
-
-
-
-
-
-Installable trough snapd:
-
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/cpu-monitoring-webapp)
-
-
-command:
-
-    sudo snap install cpu-monitoring-webapp
 
 
 ## Step 0 - System setup - if needed
