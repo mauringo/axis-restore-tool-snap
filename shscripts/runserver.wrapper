@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+
+mkdir $SNAP_DATA/package-run
+mkdir $SNAP_DATA/package-run/cpu-monitoring-webapp
+
+cd $SNAP/bin/Flask/
+
+python3 app.py
+
+
+
+exit 1
+
+
